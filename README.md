@@ -48,8 +48,3 @@ Technologies that I've been learning and I've picked up along my programming jou
   <p align="center">
   <img src="https://github.com/Angie-Mp/Angie-Mp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-<br>
-  <p align="center">
-  <img src="https://github.com/Angie-Mp/Angie-Mp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
