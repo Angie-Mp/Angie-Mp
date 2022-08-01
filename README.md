@@ -17,4 +17,4 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox?compose=new)](https://mail.google.com/mail/u/1/#inbox?compose=new)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angie-mariscal/)](https://www.linkedin.com/in/angie-mariscal/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51936834849)](https://api.whatsapp.com/send?phone=+51936834849)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://web.whatsapp.com/)](https://web.whatsapp.com/)
